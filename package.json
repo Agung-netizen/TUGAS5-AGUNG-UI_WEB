@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cypress": "^12.15.0"
+  },
+  "name": "tugas5-agungp-ui_web",
+  "version": "1.0.0",
+  "description": "tugas test ui automation",
+  "main": "Cypress.config.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
